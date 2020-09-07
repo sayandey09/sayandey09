@@ -14,4 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'am Sayan, front end web developer. you can check out my twittwer at https://twitter.com/SayanDe80701497
+### Hi there 👋, Sayan Dey
+#### Web Developer
+i'm Sayan, front end web developer,i really enjoy learning new languages and front-end frameworks
+
+Skills:  JS /bootstrap/ HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
