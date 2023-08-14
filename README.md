@@ -1,8 +1,7 @@
 ### Hi there 👋, Sayan Dey
-#### Web Developer
-i'm Sayan, front end web developer,i really enjoy learning new languages and front-end frameworks
+#### Data Engineer 
 
-Skills:  JS /bootstrap/ HTML / CSS
+Skills:  SAS,SQL , Azure 
 
 
 
